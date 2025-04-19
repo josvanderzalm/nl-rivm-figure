@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rivm figure</title>
+    <link rel="stylesheet" href="./src/index.css" />
+    <script type="module" src="/src/components/figure/nl-rivm-figure.ts"></script>
+  </head>
+  <body>
+    <h1>Rivm figure</h1>
+  
+    <!--
+    "data-set"
+    "data-url"
+    "data-format"
+    "data-fetch-options"
+    "data-x-key"
+    "data-y-key"
+    "data-group-by"
+    "data-transform"
+    "figure-type"
+    "figure-noconflict"
+    "figure-library"
+    "figure-library-config"
+    "figure-tooltip"
+    "figure-legend"
+    "figure-animation"
+    "figure-title"
+    "figure-subtitle"
+    "figure-source-text"
+    "figure-source-url"
+    "figure-x-axis-zones"
+    "figure-x-axis-label"
+    "figure-x-axis-type"
+    "figure-y-axis-zones"
+    "figure-y-axis-label"
+    "figure-y-axis-type"
+    "figure-exportable"
+    "figure-width"
+    "figure-height"
+    */
+    -->
+
+    <!-- Chart Kinkhoestmeldingen per maand, 2018-2025 -->
+    <script defer>
+      (function (currentScript) {
+        const options = {
+          "data-url": "./data/kinkhoestmeldingen.json",
+          "x-key": "Datum",
+          "y-key": "Meldingen",
+          "type": "column",
+          "library": "highcharts",
+          "noconflict": true,
+          "title": "Kinkhoestmeldingen per maand, 2018-2025",
+          "source": "Bron: RIVM, Osiris",
+          "x-axis": {
+            "zones": [
+              {
+                "from": "2020-03-01",
+                "to": "2022-03-01",
+                "label": "periode met corona maatregelen"
+              },
+              {
+                "from": "2024-11-01",
+                "to": "2025-01-01",
+                "label": "Voorlopige cijfers"
+              }
+            ]
+          },
+          "y-axis": {
+            "title": "Aantal"
+          }
+        };
+        currentScript.parentNode.insertBefore(
+          Object.assign(document.createElement("nl-rivm-figure"), { options }),
+          currentScript.nextSibling
+        );
+      })(document.currentScript);
+  
+    </script>
+    <!-- EOF Chart Kinkhoestmeldingen per maand, 2018-2025 -->
+  
+    <!-- Chart Meldingen van baby's met kinkhoest per maand, 2018-2025 -->
+    <script defer>
+      (function (currentScript) {
+        const options = {
+          "data-url": "./data/kinkhoestmeldingen.json",
+          "x-key": "Datum",
+          "y-key": "Meldingen_zuigelingen",
+          "type": "column",
+          "library": "echarts",
+          "title": "Meldingen van baby's met kinkhoest per maand, 2018-2025",
+          "subtitle": "Periode 2018-2025",
+          "source": "Bron: RIVM, Osiris",
+          "x-axis": {
+            "zones": [
+              {
+                "from": "2020-03-01",
+                "to": "2022-03-01",
+                "label": "periode met corona maatregelen"
+              },
+              {
+                "from": "2024-11-01",
+                "to": "2025-01-01",
+                "label": "Voorlopige cijfers"
+              }
+            ]
+          },
+          "y-axis": {
+            "title": "Aantal"
+          }
+        };
+        currentScript.parentNode.insertBefore(
+          Object.assign(document.createElement("nl-rivm-figure"), { options }),
+          currentScript.nextSibling
+        );
+      })(document.currentScript);
+  
+    </script>
+    <!-- EOF Meldingen van baby's met kinkhoest per maand, 2018-2025 -->
+  
+    <!-- Chart Meldingen van baby's met kinkhoest per maand, 2018-2025 -->
+    <script defer>
+      (function (currentScript) {
+        const options = {
+          "data-url": "./data/kinkhoestmeldingenjaar.json",
+          "x-key": "Jaar",
+          "y-key": "Meldingen",
+          "type": "column",
+          "title": "Kinkhoestmeldingen per jaar, 2004-2024",
+          "source": "",
+          "x-axis": {
+            "type": "datetime",
+            "zones": [
+              {
+                "type": "plotZone",
+                "from": "2020-03-01",
+                "to": "2022-03-01",
+                "label": "periode met corona maatregelen"
+              },
+              {
+                "type": "dataZone",
+                "from": "2023-6-01",
+                "to": "2025-01-01"
+              }
+            ]
+          },
+          "y-axis": {
+            "title": "Aantal"
+          }
+        };
+        currentScript.parentNode.insertBefore(
+          Object.assign(document.createElement("nl-rivm-figure"), { options }),
+          currentScript.nextSibling
+        );
+      })(document.currentScript);
+  
+    </script>
+    <!-- EOF Meldingen van baby's met kinkhoest per maand, 2018-2025 -->
+
+  </body>
+</html>
