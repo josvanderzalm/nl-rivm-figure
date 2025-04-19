@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>No Conflict Content</title>
+</head>
+<body>
+  <div id="options-container"></div>
+  <script>
+    window.addEventListener('message', (event) => {
+      if (event.data && event.data.type === 'options') {
+        const options = event.data.data;
+        console.log('Options received via postMessage:', options);
+        document.getElementById('options-container').textContent = JSON.stringify(JSON.stringify(options, null, 2)); // Display formatted JSON
+        // Now you can use the 'options' object to configure the content within this iframe.
+        // For example:
+        if (options.title) {
+          document.title = options.title;
+        }
+        // if (options.subtitle) {
+        //   const subtitleElement = document.createElement('h2');
+        //   subtitleElement.textContent = options.subtitle;
+        //   document.body.appendChild(subtitleElement);
+        // }
+      }
+    });
+  </script>
+</body>
+</html>
