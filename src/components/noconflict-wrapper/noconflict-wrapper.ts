@@ -50,7 +50,7 @@ export class NoconflictWrapper extends LitElement {
       <p>No conflict wrapper!</p>
       <iframe
         src="./noconflict-wrapper.html"
-        style="width: 100%; border: 1px solid blue; height: ${this._iframeHeight};"
+        style="width: 100%; outline: 3px dotted blue; border: none; height: ${this._iframeHeight};"
       ></iframe>
     `;
   }

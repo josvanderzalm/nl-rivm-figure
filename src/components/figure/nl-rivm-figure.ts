@@ -1,8 +1,9 @@
-import { LitElement, css } from 'lit';
-import { html as staticHtml, unsafeStatic } from 'lit/static-html.js';
-import { customElement, property, state } from 'lit/decorators.js';
+import { LitElement, css, html } from 'lit';
+import { customElement, property } from 'lit/decorators.js';
 
 import '@/components/actions/action-wrapper.js';
+import '@/components/figure/figure-wrapper.js';
+import '@/components/noconflict-wrapper/noconflict-wrapper.js';
 
 import { Options } from "@/types";
 
@@ -13,20 +14,14 @@ export class NlRivmFigure extends LitElement {
       display: block;
       padding: 10px;
       margin: 10px;
-      background: lightgray;
+      background: yellow;
     }
   `;
 
   @property({ type: Object }) options: Options = {};
 
-  @state() private _isWrapperReady = false;
-
-  get library(): 'highcharts' | 'echarts' {
-    return this.options?.library === 'echarts' ? 'echarts' : 'highcharts';
-  }
-
   get childComponent(): string {
-    return this.options?.noconflict ? 'noconflict' : this.library;
+    return this.options?.noconflict ? 'noconflict' : 'figure';
   }
 
   get title(): string {
@@ -37,39 +32,20 @@ export class NlRivmFigure extends LitElement {
     return this.options?.subtitle || '';
   }
 
-  protected async updated(changed: Map<string, unknown>) {
-    if (changed.has('options') && this.options && !this._isWrapperReady) {
-      await this.loadWrapperDynamically();
-      this._isWrapperReady = true;
+  componentTemplate() {
+    if (this.childComponent === 'figure') {
+      return html`<figure-wrapper .options="${this.options}"></figure-wrapper>`;
     }
-  }
-
-  private async loadWrapperDynamically() {
-    switch (this.childComponent) {
-      case 'noconflict':
-        await import('@/components/noconflict-wrapper/noconflict-wrapper.js');
-        break;
-      case 'echarts':
-        await import('@/components/echarts/echarts-wrapper.js');
-        break;
-      case 'highcharts':
-      default:
-        await import('@/components/highcharts/highcharts-wrapper.js');
-        break;
-    }
+    if (this.childComponent === 'noconflict') {
+      return html`<noconflict-wrapper .options="${this.options}"></noconflict-wrapper>`;
+    } 
   }
 
   render() {
-    if (!this._isWrapperReady) {
-      return staticHtml`<p>Loading chart wrapper…</p>`;
-    }
-
-    const tagName = unsafeStatic(`${this.childComponent}-wrapper`);
-
-    return staticHtml`
+    return html`
       <h1>${this.title}</h1>
       <h2>${this.subtitle}</h2>
-      <${tagName} .options="${this.options}"></${tagName}>
+      ${this.componentTemplate()}
       <actions-wrapper></actions-wrapper>
     `;
   }
