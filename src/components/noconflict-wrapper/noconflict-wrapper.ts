@@ -1,5 +1,6 @@
 import { html, LitElement } from 'lit';
-import { customElement, property, query } from 'lit/decorators.js'; // Correct import for @query
+import { customElement, property, state, query } from 'lit/decorators.js';
+
 
 import { Options } from "@/types";
 
@@ -10,19 +11,20 @@ export class NoconflictWrapper extends LitElement {
   @query('iframe')
   private _iframe!: HTMLIFrameElement;
 
-  private _iframeLoaded = false;
+  @state()
+  private _iframeHeight = '150px'; // Initial height
 
   protected firstUpdated(_changedProperties: Map<string | number | symbol, unknown>): void {
     super.firstUpdated(_changedProperties);
     this._iframe.addEventListener('load', () => {
-      this._iframeLoaded = true;
       this._sendOptionsToIframe();
     });
+    window.addEventListener('message', this._handleIframeMessage);
   }
 
   protected updated(_changedProperties: Map<string | number | symbol, unknown>): void {
     super.updated(_changedProperties);
-    if (this._iframeLoaded && _changedProperties.has('options')) {
+    if (_changedProperties.has('options') && this._iframe?.contentWindow) {
       this._sendOptionsToIframe();
     }
   }
@@ -33,13 +35,22 @@ export class NoconflictWrapper extends LitElement {
     }
   }
 
+  private _handleIframeMessage = (event: MessageEvent) => {
+    if (event.data && event.data.type === 'iframe-height') {
+      const height = event.data.value;
+      if (typeof height === 'number' && height > 0) {
+        this._iframeHeight = `${height}px`;
+      }
+    }
+  };
+
   render() {
     console.log('Options from noconflic-wrapper', this.options);
     return html`
       <p>No conflict wrapper!</p>
       <iframe
         src="./noconflict-wrapper.html"
-        style="width: 100%; border: 1px solid blue;"
+        style="width: 100%; border: 1px solid blue; height: ${this._iframeHeight};"
       ></iframe>
     `;
   }
