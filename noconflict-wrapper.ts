@@ -8,6 +8,7 @@ window.addEventListener('message', (event) => {
 });
 
 function sendHeightToParent() {
+  console.log('Sending height to parent:', document.body.scrollHeight);
   window.parent.postMessage({ type: 'iframe-height', value: document.body.scrollHeight }, '*');
 }
 
@@ -34,6 +35,20 @@ function observeFigureWrapper() {
     // Try again after a short delay if shadowRoot is not yet available
     setTimeout(observeFigureWrapper, 50);
   }
+}
+
+// Use ResizeObserver to detect changes in document height
+const resizeObserver = new ResizeObserver(() => {
+  sendHeightToParent();
+});
+
+// Ensure the DOM is fully loaded before observing the body
+if (document.readyState === 'complete' || document.readyState === 'interactive') {
+  resizeObserver.observe(document.body);
+} else {
+  window.addEventListener('DOMContentLoaded', () => {
+    resizeObserver.observe(document.body);
+  });
 }
 
 // Send initial height on load

@@ -1,0 +1,787 @@
+[
+    {
+      "Datum": 1325376000000,
+      "Meldingen": 1170,
+      "Meldingen_zuigelingen": 30
+    },
+    {
+      "Datum": 1328054400000,
+      "Meldingen": 1151,
+      "Meldingen_zuigelingen": 23
+    },
+    {
+      "Datum": 1330560000000,
+      "Meldingen": 1367,
+      "Meldingen_zuigelingen": 24
+    },
+    {
+      "Datum": 1333238400000,
+      "Meldingen": 1391,
+      "Meldingen_zuigelingen": 35
+    },
+    {
+      "Datum": 1335830400000,
+      "Meldingen": 1956,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1338508800000,
+      "Meldingen": 1626,
+      "Meldingen_zuigelingen": 18
+    },
+    {
+      "Datum": 1341100800000,
+      "Meldingen": 1483,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1343779200000,
+      "Meldingen": 1336,
+      "Meldingen_zuigelingen": 22
+    },
+    {
+      "Datum": 1346457600000,
+      "Meldingen": 797,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1349049600000,
+      "Meldingen": 594,
+      "Meldingen_zuigelingen": 11
+    },
+    {
+      "Datum": 1351728000000,
+      "Meldingen": 512,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1354320000000,
+      "Meldingen": 444,
+      "Meldingen_zuigelingen": 6
+    },
+    {
+      "Datum": 1356998400000,
+      "Meldingen": 369,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1359676800000,
+      "Meldingen": 243,
+      "Meldingen_zuigelingen": 6
+    },
+    {
+      "Datum": 1362096000000,
+      "Meldingen": 217,
+      "Meldingen_zuigelingen": 4
+    },
+    {
+      "Datum": 1364774400000,
+      "Meldingen": 245,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1367366400000,
+      "Meldingen": 255,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1370044800000,
+      "Meldingen": 211,
+      "Meldingen_zuigelingen": 6
+    },
+    {
+      "Datum": 1372636800000,
+      "Meldingen": 317,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1375315200000,
+      "Meldingen": 326,
+      "Meldingen_zuigelingen": 6
+    },
+    {
+      "Datum": 1377993600000,
+      "Meldingen": 268,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1380585600000,
+      "Meldingen": 303,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1383264000000,
+      "Meldingen": 268,
+      "Meldingen_zuigelingen": 11
+    },
+    {
+      "Datum": 1385856000000,
+      "Meldingen": 396,
+      "Meldingen_zuigelingen": 9
+    },
+    {
+      "Datum": 1388534400000,
+      "Meldingen": 395,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1391212800000,
+      "Meldingen": 398,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1393632000000,
+      "Meldingen": 511,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1396310400000,
+      "Meldingen": 617,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1398902400000,
+      "Meldingen": 833,
+      "Meldingen_zuigelingen": 18
+    },
+    {
+      "Datum": 1401580800000,
+      "Meldingen": 870,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1404172800000,
+      "Meldingen": 1088,
+      "Meldingen_zuigelingen": 30
+    },
+    {
+      "Datum": 1406851200000,
+      "Meldingen": 1005,
+      "Meldingen_zuigelingen": 46
+    },
+    {
+      "Datum": 1409529600000,
+      "Meldingen": 817,
+      "Meldingen_zuigelingen": 24
+    },
+    {
+      "Datum": 1412121600000,
+      "Meldingen": 814,
+      "Meldingen_zuigelingen": 25
+    },
+    {
+      "Datum": 1414800000000,
+      "Meldingen": 854,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1417392000000,
+      "Meldingen": 1035,
+      "Meldingen_zuigelingen": 22
+    },
+    {
+      "Datum": 1420070400000,
+      "Meldingen": 792,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1422748800000,
+      "Meldingen": 594,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1425168000000,
+      "Meldingen": 558,
+      "Meldingen_zuigelingen": 20
+    },
+    {
+      "Datum": 1427846400000,
+      "Meldingen": 563,
+      "Meldingen_zuigelingen": 9
+    },
+    {
+      "Datum": 1430438400000,
+      "Meldingen": 690,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1433116800000,
+      "Meldingen": 578,
+      "Meldingen_zuigelingen": 13
+    },
+    {
+      "Datum": 1435708800000,
+      "Meldingen": 597,
+      "Meldingen_zuigelingen": 23
+    },
+    {
+      "Datum": 1438387200000,
+      "Meldingen": 592,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1441065600000,
+      "Meldingen": 357,
+      "Meldingen_zuigelingen": 10
+    },
+    {
+      "Datum": 1443657600000,
+      "Meldingen": 306,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1446336000000,
+      "Meldingen": 391,
+      "Meldingen_zuigelingen": 11
+    },
+    {
+      "Datum": 1448928000000,
+      "Meldingen": 535,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1451606400000,
+      "Meldingen": 500,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1454284800000,
+      "Meldingen": 402,
+      "Meldingen_zuigelingen": 15
+    },
+    {
+      "Datum": 1456790400000,
+      "Meldingen": 429,
+      "Meldingen_zuigelingen": 15
+    },
+    {
+      "Datum": 1459468800000,
+      "Meldingen": 439,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1462060800000,
+      "Meldingen": 549,
+      "Meldingen_zuigelingen": 23
+    },
+    {
+      "Datum": 1464739200000,
+      "Meldingen": 500,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1467331200000,
+      "Meldingen": 515,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1470009600000,
+      "Meldingen": 538,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1472688000000,
+      "Meldingen": 486,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1475280000000,
+      "Meldingen": 385,
+      "Meldingen_zuigelingen": 12
+    },
+    {
+      "Datum": 1477958400000,
+      "Meldingen": 415,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1480550400000,
+      "Meldingen": 404,
+      "Meldingen_zuigelingen": 20
+    },
+    {
+      "Datum": 1483228800000,
+      "Meldingen": 376,
+      "Meldingen_zuigelingen": 10
+    },
+    {
+      "Datum": 1485907200000,
+      "Meldingen": 344,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1488326400000,
+      "Meldingen": 441,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1491004800000,
+      "Meldingen": 468,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1493596800000,
+      "Meldingen": 538,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1496275200000,
+      "Meldingen": 563,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1498867200000,
+      "Meldingen": 520,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1501545600000,
+      "Meldingen": 475,
+      "Meldingen_zuigelingen": 22
+    },
+    {
+      "Datum": 1504224000000,
+      "Meldingen": 307,
+      "Meldingen_zuigelingen": 16
+    },
+    {
+      "Datum": 1506816000000,
+      "Meldingen": 310,
+      "Meldingen_zuigelingen": 12
+    },
+    {
+      "Datum": 1509494400000,
+      "Meldingen": 289,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1512086400000,
+      "Meldingen": 296,
+      "Meldingen_zuigelingen": 9
+    },
+    {
+      "Datum": 1514764800000,
+      "Meldingen": 260,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1517443200000,
+      "Meldingen": 228,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1519862400000,
+      "Meldingen": 253,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1522540800000,
+      "Meldingen": 292,
+      "Meldingen_zuigelingen": 9
+    },
+    {
+      "Datum": 1525132800000,
+      "Meldingen": 466,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1527811200000,
+      "Meldingen": 455,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1530403200000,
+      "Meldingen": 579,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1533081600000,
+      "Meldingen": 622,
+      "Meldingen_zuigelingen": 24
+    },
+    {
+      "Datum": 1535760000000,
+      "Meldingen": 390,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1538352000000,
+      "Meldingen": 450,
+      "Meldingen_zuigelingen": 18
+    },
+    {
+      "Datum": 1541030400000,
+      "Meldingen": 436,
+      "Meldingen_zuigelingen": 22
+    },
+    {
+      "Datum": 1543622400000,
+      "Meldingen": 444,
+      "Meldingen_zuigelingen": 13
+    },
+    {
+      "Datum": 1546300800000,
+      "Meldingen": 554,
+      "Meldingen_zuigelingen": 19
+    },
+    {
+      "Datum": 1548979200000,
+      "Meldingen": 521,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1551398400000,
+      "Meldingen": 590,
+      "Meldingen_zuigelingen": 22
+    },
+    {
+      "Datum": 1554076800000,
+      "Meldingen": 666,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1556668800000,
+      "Meldingen": 646,
+      "Meldingen_zuigelingen": 11
+    },
+    {
+      "Datum": 1559347200000,
+      "Meldingen": 584,
+      "Meldingen_zuigelingen": 15
+    },
+    {
+      "Datum": 1561939200000,
+      "Meldingen": 609,
+      "Meldingen_zuigelingen": 13
+    },
+    {
+      "Datum": 1564617600000,
+      "Meldingen": 626,
+      "Meldingen_zuigelingen": 21
+    },
+    {
+      "Datum": 1567296000000,
+      "Meldingen": 418,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1569888000000,
+      "Meldingen": 411,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1572566400000,
+      "Meldingen": 365,
+      "Meldingen_zuigelingen": 12
+    },
+    {
+      "Datum": 1575158400000,
+      "Meldingen": 395,
+      "Meldingen_zuigelingen": 14
+    },
+    {
+      "Datum": 1577836800000,
+      "Meldingen": 388,
+      "Meldingen_zuigelingen": 11
+    },
+    {
+      "Datum": 1580515200000,
+      "Meldingen": 227,
+      "Meldingen_zuigelingen": 6
+    },
+    {
+      "Datum": 1583020800000,
+      "Meldingen": 137,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1585699200000,
+      "Meldingen": 90,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1588291200000,
+      "Meldingen": 51,
+      "Meldingen_zuigelingen": 4
+    },
+    {
+      "Datum": 1590969600000,
+      "Meldingen": 19,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1593561600000,
+      "Meldingen": 6,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1596240000000,
+      "Meldingen": 5,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1598918400000,
+      "Meldingen": 11,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1601510400000,
+      "Meldingen": 8,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1604188800000,
+      "Meldingen": 5,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1606780800000,
+      "Meldingen": 12,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1609459200000,
+      "Meldingen": 9,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1612137600000,
+      "Meldingen": 4,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1614556800000,
+      "Meldingen": 4,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1617235200000,
+      "Meldingen": 8,
+      "Meldingen_zuigelingen": 3
+    },
+    {
+      "Datum": 1619827200000,
+      "Meldingen": 4,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1622505600000,
+      "Meldingen": 4,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1625097600000,
+      "Meldingen": 7,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1627776000000,
+      "Meldingen": 10,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1630454400000,
+      "Meldingen": 14,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1633046400000,
+      "Meldingen": 5,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1635724800000,
+      "Meldingen": 7,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1638316800000,
+      "Meldingen": 3,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1640995200000,
+      "Meldingen": 8,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1643673600000,
+      "Meldingen": 7,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1646092800000,
+      "Meldingen": 10,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1648771200000,
+      "Meldingen": 7,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1651363200000,
+      "Meldingen": 5,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1654041600000,
+      "Meldingen": 8,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1656633600000,
+      "Meldingen": 7,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1659312000000,
+      "Meldingen": 10,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1661990400000,
+      "Meldingen": 10,
+      "Meldingen_zuigelingen": 3
+    },
+    {
+      "Datum": 1664582400000,
+      "Meldingen": 25,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1667260800000,
+      "Meldingen": 27,
+      "Meldingen_zuigelingen": 3
+    },
+    {
+      "Datum": 1669852800000,
+      "Meldingen": 23,
+      "Meldingen_zuigelingen": 4
+    },
+    {
+      "Datum": 1672531200000,
+      "Meldingen": 11,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1675209600000,
+      "Meldingen": 13,
+      "Meldingen_zuigelingen": 1
+    },
+    {
+      "Datum": 1677628800000,
+      "Meldingen": 9,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1680307200000,
+      "Meldingen": 15,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1682899200000,
+      "Meldingen": 36,
+      "Meldingen_zuigelingen": 0
+    },
+    {
+      "Datum": 1685577600000,
+      "Meldingen": 71,
+      "Meldingen_zuigelingen": 2
+    },
+    {
+      "Datum": 1688169600000,
+      "Meldingen": 118,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1690848000000,
+      "Meldingen": 232,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1693526400000,
+      "Meldingen": 241,
+      "Meldingen_zuigelingen": 13
+    },
+    {
+      "Datum": 1696118400000,
+      "Meldingen": 418,
+      "Meldingen_zuigelingen": 27
+    },
+    {
+      "Datum": 1698796800000,
+      "Meldingen": 687,
+      "Meldingen_zuigelingen": 50
+    },
+    {
+      "Datum": 1701388800000,
+      "Meldingen": 1092,
+      "Meldingen_zuigelingen": 52
+    },
+    {
+      "Datum": 1704067200000,
+      "Meldingen": 1961,
+      "Meldingen_zuigelingen": 101
+    },
+    {
+      "Datum": 1706745600000,
+      "Meldingen": 2839,
+      "Meldingen_zuigelingen": 134
+    },
+    {
+      "Datum": 1709251200000,
+      "Meldingen": 3557,
+      "Meldingen_zuigelingen": 164
+    },
+    {
+      "Datum": 1711929600000,
+      "Meldingen": 3204,
+      "Meldingen_zuigelingen": 129
+    },
+    {
+      "Datum": 1714521600000,
+      "Meldingen": 2552,
+      "Meldingen_zuigelingen": 110
+    },
+    {
+      "Datum": 1717200000000,
+      "Meldingen": 1574,
+      "Meldingen_zuigelingen": 86
+    },
+    {
+      "Datum": 1719792000000,
+      "Meldingen": 1046,
+      "Meldingen_zuigelingen": 53
+    },
+    {
+      "Datum": 1722470400000,
+      "Meldingen": 674,
+      "Meldingen_zuigelingen": 23
+    },
+    {
+      "Datum": 1725148800000,
+      "Meldingen": 370,
+      "Meldingen_zuigelingen": 17
+    },
+    {
+      "Datum": 1727740800000,
+      "Meldingen": 189,
+      "Meldingen_zuigelingen": 7
+    },
+    {
+      "Datum": 1730419200000,
+      "Meldingen": 93,
+      "Meldingen_zuigelingen": 8
+    },
+    {
+      "Datum": 1733011200000,
+      "Meldingen": 45,
+      "Meldingen_zuigelingen": 5
+    },
+    {
+      "Datum": 1735689600000,
+      "Meldingen": 6,
+      "Meldingen_zuigelingen": 1
+    }
+   ]

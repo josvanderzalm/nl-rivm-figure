@@ -1,0 +1,737 @@
+[
+  {
+    "value": 2535,
+    "categorie": "0-5 maanden",
+    "year": 2004
+  },
+  {
+    "value": 2518,
+    "categorie": "6-11 maanden",
+    "year": 2004
+  },
+  {
+    "value": 6479,
+    "categorie": "1-4 jaar",
+    "year": 2004
+  },
+  {
+    "value": 521,
+    "categorie": "5-9 jaar",
+    "year": 2004
+  },
+  {
+    "value": 3907,
+    "categorie": "10-19 jaar",
+    "year": 2004
+  },
+  {
+    "value": 1239,
+    "categorie": "20-59 jaar",
+    "year": 2004
+  },
+  {
+    "value": 3790,
+    "categorie": ">= 60 jaar",
+    "year": 2004
+  },
+  {
+    "value": 6607,
+    "categorie": "0-5 maanden",
+    "year": 2005
+  },
+  {
+    "value": 1650,
+    "categorie": "6-11 maanden",
+    "year": 2005
+  },
+  {
+    "value": 1158,
+    "categorie": "1-4 jaar",
+    "year": 2005
+  },
+  {
+    "value": 1092,
+    "categorie": "5-9 jaar",
+    "year": 2005
+  },
+  {
+    "value": 448,
+    "categorie": "10-19 jaar",
+    "year": 2005
+  },
+  {
+    "value": 1449,
+    "categorie": "20-59 jaar",
+    "year": 2005
+  },
+  {
+    "value": 4198,
+    "categorie": ">= 60 jaar",
+    "year": 2005
+  },
+  {
+    "value": 6428,
+    "categorie": "0-5 maanden",
+    "year": 2006
+  },
+  {
+    "value": 3321,
+    "categorie": "6-11 maanden",
+    "year": 2006
+  },
+  {
+    "value": 7640,
+    "categorie": "1-4 jaar",
+    "year": 2006
+  },
+  {
+    "value": 344,
+    "categorie": "5-9 jaar",
+    "year": 2006
+  },
+  {
+    "value": 7596,
+    "categorie": "10-19 jaar",
+    "year": 2006
+  },
+  {
+    "value": 819,
+    "categorie": "20-59 jaar",
+    "year": 2006
+  },
+  {
+    "value": 1230,
+    "categorie": ">= 60 jaar",
+    "year": 2006
+  },
+  {
+    "value": 5765,
+    "categorie": "0-5 maanden",
+    "year": 2007
+  },
+  {
+    "value": 2004,
+    "categorie": "6-11 maanden",
+    "year": 2007
+  },
+  {
+    "value": 4084,
+    "categorie": "1-4 jaar",
+    "year": 2007
+  },
+  {
+    "value": 2342,
+    "categorie": "5-9 jaar",
+    "year": 2007
+  },
+  {
+    "value": 4944,
+    "categorie": "10-19 jaar",
+    "year": 2007
+  },
+  {
+    "value": 4764,
+    "categorie": "20-59 jaar",
+    "year": 2007
+  },
+  {
+    "value": 3598,
+    "categorie": ">= 60 jaar",
+    "year": 2007
+  },
+  {
+    "value": 7299,
+    "categorie": "0-5 maanden",
+    "year": 2008
+  },
+  {
+    "value": 4020,
+    "categorie": "6-11 maanden",
+    "year": 2008
+  },
+  {
+    "value": 3224,
+    "categorie": "1-4 jaar",
+    "year": 2008
+  },
+  {
+    "value": 5745,
+    "categorie": "5-9 jaar",
+    "year": 2008
+  },
+  {
+    "value": 2800,
+    "categorie": "10-19 jaar",
+    "year": 2008
+  },
+  {
+    "value": 3887,
+    "categorie": "20-59 jaar",
+    "year": 2008
+  },
+  {
+    "value": 3742,
+    "categorie": ">= 60 jaar",
+    "year": 2008
+  },
+  {
+    "value": 5779,
+    "categorie": "0-5 maanden",
+    "year": 2009
+  },
+  {
+    "value": 6181,
+    "categorie": "6-11 maanden",
+    "year": 2009
+  },
+  {
+    "value": 2746,
+    "categorie": "1-4 jaar",
+    "year": 2009
+  },
+  {
+    "value": 415,
+    "categorie": "5-9 jaar",
+    "year": 2009
+  },
+  {
+    "value": 3344,
+    "categorie": "10-19 jaar",
+    "year": 2009
+  },
+  {
+    "value": 5225,
+    "categorie": "20-59 jaar",
+    "year": 2009
+  },
+  {
+    "value": 7965,
+    "categorie": ">= 60 jaar",
+    "year": 2009
+  },
+  {
+    "value": 2214,
+    "categorie": "0-5 maanden",
+    "year": 2010
+  },
+  {
+    "value": 6731,
+    "categorie": "6-11 maanden",
+    "year": 2010
+  },
+  {
+    "value": 4935,
+    "categorie": "1-4 jaar",
+    "year": 2010
+  },
+  {
+    "value": 4816,
+    "categorie": "5-9 jaar",
+    "year": 2010
+  },
+  {
+    "value": 2919,
+    "categorie": "10-19 jaar",
+    "year": 2010
+  },
+  {
+    "value": 355,
+    "categorie": "20-59 jaar",
+    "year": 2010
+  },
+  {
+    "value": 2436,
+    "categorie": ">= 60 jaar",
+    "year": 2010
+  },
+  {
+    "value": 7917,
+    "categorie": "0-5 maanden",
+    "year": 2011
+  },
+  {
+    "value": 3297,
+    "categorie": "6-11 maanden",
+    "year": 2011
+  },
+  {
+    "value": 3826,
+    "categorie": "1-4 jaar",
+    "year": 2011
+  },
+  {
+    "value": 1020,
+    "categorie": "5-9 jaar",
+    "year": 2011
+  },
+  {
+    "value": 3731,
+    "categorie": "10-19 jaar",
+    "year": 2011
+  },
+  {
+    "value": 1088,
+    "categorie": "20-59 jaar",
+    "year": 2011
+  },
+  {
+    "value": 1510,
+    "categorie": ">= 60 jaar",
+    "year": 2011
+  },
+  {
+    "value": 7460,
+    "categorie": "0-5 maanden",
+    "year": 2012
+  },
+  {
+    "value": 3670,
+    "categorie": "6-11 maanden",
+    "year": 2012
+  },
+  {
+    "value": 442,
+    "categorie": "1-4 jaar",
+    "year": 2012
+  },
+  {
+    "value": 5540,
+    "categorie": "5-9 jaar",
+    "year": 2012
+  },
+  {
+    "value": 2355,
+    "categorie": "10-19 jaar",
+    "year": 2012
+  },
+  {
+    "value": 2613,
+    "categorie": "20-59 jaar",
+    "year": 2012
+  },
+  {
+    "value": 943,
+    "categorie": ">= 60 jaar",
+    "year": 2012
+  },
+  {
+    "value": 5385,
+    "categorie": "0-5 maanden",
+    "year": 2013
+  },
+  {
+    "value": 6079,
+    "categorie": "6-11 maanden",
+    "year": 2013
+  },
+  {
+    "value": 5045,
+    "categorie": "1-4 jaar",
+    "year": 2013
+  },
+  {
+    "value": 5290,
+    "categorie": "5-9 jaar",
+    "year": 2013
+  },
+  {
+    "value": 3312,
+    "categorie": "10-19 jaar",
+    "year": 2013
+  },
+  {
+    "value": 5546,
+    "categorie": "20-59 jaar",
+    "year": 2013
+  },
+  {
+    "value": 325,
+    "categorie": ">= 60 jaar",
+    "year": 2013
+  },
+  {
+    "value": 929,
+    "categorie": "0-5 maanden",
+    "year": 2014
+  },
+  {
+    "value": 785,
+    "categorie": "6-11 maanden",
+    "year": 2014
+  },
+  {
+    "value": 517,
+    "categorie": "1-4 jaar",
+    "year": 2014
+  },
+  {
+    "value": 5070,
+    "categorie": "5-9 jaar",
+    "year": 2014
+  },
+  {
+    "value": 7709,
+    "categorie": "10-19 jaar",
+    "year": 2014
+  },
+  {
+    "value": 6959,
+    "categorie": "20-59 jaar",
+    "year": 2014
+  },
+  {
+    "value": 3329,
+    "categorie": ">= 60 jaar",
+    "year": 2014
+  },
+  {
+    "value": 7765,
+    "categorie": "0-5 maanden",
+    "year": 2015
+  },
+  {
+    "value": 3941,
+    "categorie": "6-11 maanden",
+    "year": 2015
+  },
+  {
+    "value": 2259,
+    "categorie": "1-4 jaar",
+    "year": 2015
+  },
+  {
+    "value": 5965,
+    "categorie": "5-9 jaar",
+    "year": 2015
+  },
+  {
+    "value": 1419,
+    "categorie": "10-19 jaar",
+    "year": 2015
+  },
+  {
+    "value": 2840,
+    "categorie": "20-59 jaar",
+    "year": 2015
+  },
+  {
+    "value": 772,
+    "categorie": ">= 60 jaar",
+    "year": 2015
+  },
+  {
+    "value": 2312,
+    "categorie": "0-5 maanden",
+    "year": 2016
+  },
+  {
+    "value": 6269,
+    "categorie": "6-11 maanden",
+    "year": 2016
+  },
+  {
+    "value": 3961,
+    "categorie": "1-4 jaar",
+    "year": 2016
+  },
+  {
+    "value": 6201,
+    "categorie": "5-9 jaar",
+    "year": 2016
+  },
+  {
+    "value": 2985,
+    "categorie": "10-19 jaar",
+    "year": 2016
+  },
+  {
+    "value": 3614,
+    "categorie": "20-59 jaar",
+    "year": 2016
+  },
+  {
+    "value": 4681,
+    "categorie": ">= 60 jaar",
+    "year": 2016
+  },
+  {
+    "value": 2184,
+    "categorie": "0-5 maanden",
+    "year": 2017
+  },
+  {
+    "value": 4114,
+    "categorie": "6-11 maanden",
+    "year": 2017
+  },
+  {
+    "value": 6321,
+    "categorie": "1-4 jaar",
+    "year": 2017
+  },
+  {
+    "value": 997,
+    "categorie": "5-9 jaar",
+    "year": 2017
+  },
+  {
+    "value": 5462,
+    "categorie": "10-19 jaar",
+    "year": 2017
+  },
+  {
+    "value": 6213,
+    "categorie": "20-59 jaar",
+    "year": 2017
+  },
+  {
+    "value": 4661,
+    "categorie": ">= 60 jaar",
+    "year": 2017
+  },
+  {
+    "value": 2791,
+    "categorie": "0-5 maanden",
+    "year": 2018
+  },
+  {
+    "value": 3661,
+    "categorie": "6-11 maanden",
+    "year": 2018
+  },
+  {
+    "value": 5040,
+    "categorie": "1-4 jaar",
+    "year": 2018
+  },
+  {
+    "value": 4030,
+    "categorie": "5-9 jaar",
+    "year": 2018
+  },
+  {
+    "value": 6307,
+    "categorie": "10-19 jaar",
+    "year": 2018
+  },
+  {
+    "value": 4026,
+    "categorie": "20-59 jaar",
+    "year": 2018
+  },
+  {
+    "value": 5944,
+    "categorie": ">= 60 jaar",
+    "year": 2018
+  },
+  {
+    "value": 7249,
+    "categorie": "0-5 maanden",
+    "year": 2019
+  },
+  {
+    "value": 6995,
+    "categorie": "6-11 maanden",
+    "year": 2019
+  },
+  {
+    "value": 5448,
+    "categorie": "1-4 jaar",
+    "year": 2019
+  },
+  {
+    "value": 7235,
+    "categorie": "5-9 jaar",
+    "year": 2019
+  },
+  {
+    "value": 1883,
+    "categorie": "10-19 jaar",
+    "year": 2019
+  },
+  {
+    "value": 3520,
+    "categorie": "20-59 jaar",
+    "year": 2019
+  },
+  {
+    "value": 6686,
+    "categorie": ">= 60 jaar",
+    "year": 2019
+  },
+  {
+    "value": 7514,
+    "categorie": "0-5 maanden",
+    "year": 2020
+  },
+  {
+    "value": 4370,
+    "categorie": "6-11 maanden",
+    "year": 2020
+  },
+  {
+    "value": 895,
+    "categorie": "1-4 jaar",
+    "year": 2020
+  },
+  {
+    "value": 879,
+    "categorie": "5-9 jaar",
+    "year": 2020
+  },
+  {
+    "value": 5494,
+    "categorie": "10-19 jaar",
+    "year": 2020
+  },
+  {
+    "value": 4696,
+    "categorie": "20-59 jaar",
+    "year": 2020
+  },
+  {
+    "value": 5474,
+    "categorie": ">= 60 jaar",
+    "year": 2020
+  },
+  {
+    "value": 993,
+    "categorie": "0-5 maanden",
+    "year": 2021
+  },
+  {
+    "value": 6467,
+    "categorie": "6-11 maanden",
+    "year": 2021
+  },
+  {
+    "value": 2929,
+    "categorie": "1-4 jaar",
+    "year": 2021
+  },
+  {
+    "value": 7050,
+    "categorie": "5-9 jaar",
+    "year": 2021
+  },
+  {
+    "value": 3970,
+    "categorie": "10-19 jaar",
+    "year": 2021
+  },
+  {
+    "value": 5055,
+    "categorie": "20-59 jaar",
+    "year": 2021
+  },
+  {
+    "value": 6883,
+    "categorie": ">= 60 jaar",
+    "year": 2021
+  },
+  {
+    "value": 6736,
+    "categorie": "0-5 maanden",
+    "year": 2022
+  },
+  {
+    "value": 918,
+    "categorie": "6-11 maanden",
+    "year": 2022
+  },
+  {
+    "value": 3174,
+    "categorie": "1-4 jaar",
+    "year": 2022
+  },
+  {
+    "value": 2231,
+    "categorie": "5-9 jaar",
+    "year": 2022
+  },
+  {
+    "value": 242,
+    "categorie": "10-19 jaar",
+    "year": 2022
+  },
+  {
+    "value": 1444,
+    "categorie": "20-59 jaar",
+    "year": 2022
+  },
+  {
+    "value": 3350,
+    "categorie": ">= 60 jaar",
+    "year": 2022
+  },
+  {
+    "value": 4031,
+    "categorie": "0-5 maanden",
+    "year": 2023
+  },
+  {
+    "value": 3046,
+    "categorie": "6-11 maanden",
+    "year": 2023
+  },
+  {
+    "value": 5654,
+    "categorie": "1-4 jaar",
+    "year": 2023
+  },
+  {
+    "value": 2896,
+    "categorie": "5-9 jaar",
+    "year": 2023
+  },
+  {
+    "value": 4379,
+    "categorie": "10-19 jaar",
+    "year": 2023
+  },
+  {
+    "value": 1020,
+    "categorie": "20-59 jaar",
+    "year": 2023
+  },
+  {
+    "value": 3838,
+    "categorie": ">= 60 jaar",
+    "year": 2023
+  },
+  {
+    "value": 4221,
+    "categorie": "0-5 maanden",
+    "year": 2024
+  },
+  {
+    "value": 7583,
+    "categorie": "6-11 maanden",
+    "year": 2024
+  },
+  {
+    "value": 1201,
+    "categorie": "1-4 jaar",
+    "year": 2024
+  },
+  {
+    "value": 7708,
+    "categorie": "5-9 jaar",
+    "year": 2024
+  },
+  {
+    "value": 3262,
+    "categorie": "10-19 jaar",
+    "year": 2024
+  },
+  {
+    "value": 4057,
+    "categorie": "20-59 jaar",
+    "year": 2024
+  },
+  {
+    "value": 3000,
+    "categorie": ">= 60 jaar",
+    "year": 2024
+  }
+]

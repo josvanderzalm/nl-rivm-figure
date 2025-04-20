@@ -1,0 +1,380 @@
+[
+  {
+    "jaar": 2004,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 210
+  },
+  {
+    "jaar": 2005,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 127
+  },
+  {
+    "jaar": 2006,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 103
+  },
+  {
+    "jaar": 2007,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 137
+  },
+  {
+    "jaar": 2008,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 148
+  },
+  {
+    "jaar": 2009,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 129
+  },
+  {
+    "jaar": 2010,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 91
+  },
+  {
+    "jaar": 2011,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 126
+  },
+  {
+    "jaar": 2012,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 195
+  },
+  {
+    "jaar": 2013,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 57
+  },
+  {
+    "jaar": 2014,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 194
+  },
+  {
+    "jaar": 2015,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 144
+  },
+  {
+    "jaar": 2016,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 166
+  },
+  {
+    "jaar": 2017,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 137
+  },
+  {
+    "jaar": 2018,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 133
+  },
+  {
+    "jaar": 2019,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 126
+  },
+  {
+    "jaar": 2020,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 29
+  },
+  {
+    "jaar": 2021,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 8
+  },
+  {
+    "jaar": 2022,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 10
+  },
+  {
+    "jaar": 2023,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 94
+  },
+  {
+    "jaar": 2024*,
+    "container": "kabs1",
+    "lftcat": "0-5 maanden",
+    "value": 471
+  },
+  {
+    "jaar": 2004,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 156
+  },
+  {
+    "jaar": 2005,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 64
+  },
+  {
+    "jaar": 2006,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 45
+  },
+  {
+    "jaar": 2007,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 51
+  },
+  {
+    "jaar": 2008,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 47
+  },
+  {
+    "jaar": 2009,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 33
+  },
+  {
+    "jaar": 2010,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 23
+  },
+  {
+    "jaar": 2011,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 32
+  },
+  {
+    "jaar": 2012,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 44
+  },
+  {
+    "jaar": 2013,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 21
+  },
+  {
+    "jaar": 2014,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 65
+  },
+  {
+    "jaar": 2015,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 33
+  },
+  {
+    "jaar": 2016,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 53
+  },
+  {
+    "jaar": 2017,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 44
+  },
+  {
+    "jaar": 2018,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 57
+  },
+  {
+    "jaar": 2019,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 61
+  },
+  {
+    "jaar": 2020,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 13
+  },
+  {
+    "jaar": 2021,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 1
+  },
+  {
+    "jaar": 2022,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 9
+  },
+  {
+    "jaar": 2023,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 64
+  },
+  {
+    "jaar": 2024,
+    "container": "kabs2",
+    "lftcat": "6-11 maanden",
+    "value": 365
+  },
+  {
+    "jaar": 2004,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 1014
+  },
+  {
+    "jaar": 2005,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 791
+  },
+  {
+    "jaar": 2006,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 477
+  },
+  {
+    "jaar": 2007,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 451
+  },
+  {
+    "jaar": 2008,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 352
+  },
+  {
+    "jaar": 2009,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 257
+  },
+  {
+    "jaar": 2010,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 166
+  },
+  {
+    "jaar": 2011,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 284
+  },
+  {
+    "jaar": 2012,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 379
+  },
+  {
+    "jaar": 2013,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 138
+  },
+  {
+    "jaar": 2014,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 490
+  },
+  {
+    "jaar": 2015,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 277
+  },
+  {
+    "jaar": 2016,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 405
+  },
+  {
+    "jaar": 2017,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 223
+  },
+  {
+    "jaar": 2018,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 341
+  },
+  {
+    "jaar": 2019,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 314
+  },
+  {
+    "jaar": 2020,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 47
+  },
+  {
+    "jaar": 2021,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 8
+  },
+  {
+    "jaar": 2022,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 35
+  },
+  {
+    "jaar": 2023,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 182
+  },
+  {
+    "jaar": 2024,
+    "container": "kabs3",
+    "lftcat": "1-4 jaar",
+    "value": 896
+  }
+]
