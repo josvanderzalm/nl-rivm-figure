@@ -16,6 +16,6 @@ export class EchartsWrapper extends LitElement {
 
   render() {
     console.log('Options from echarts-wrapper', this.options);
-    return html`<p>Echarts wrapper!</p>`;
+    return html`<p>Echarts wrapper!: ${this.options.title}</p>`;
   }
 }

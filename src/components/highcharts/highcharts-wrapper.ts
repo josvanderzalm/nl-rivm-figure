@@ -16,6 +16,6 @@ export class HighchartsWrapper extends LitElement {
   
   render() {
     console.log('Options from highcharts-wrapper', this.options);
-    return html`<p>Highcharts wrapper!</p>`;
+    return html`<p>Highcharts wrapper!: ${this.options.title}</p>`;
   }
 }
